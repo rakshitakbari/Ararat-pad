@@ -1,6 +1,6 @@
-Create.
-
-You can find step by step guide from [Create.](https://github.com/rakshitakbari/Create-psd.git)
+Ararat Architechture
+ 
+You can find step by step guide from [Ararat Architechture](https://github.com/rakshitakbari/Ararat-pad.git)
 
 ## Installation
 
