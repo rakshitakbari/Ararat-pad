@@ -1,0 +1,37 @@
+#project{
+    padding: 80px 0 0;
+    @include media-breakpoint-down(md){
+        padding: 40px 0 0;
+    }
+    .single_project_thumb{
+        img{
+            width: 100%;
+        }
+    }
+    .section_title{
+        .sub_heading2 {
+            color: #808080;
+            display: block;
+            font-size: 14px;
+            text-transform: uppercase;
+            font-weight: 400;
+            font-family: "Roboto",sans-serif;
+            letter-spacing: 3px;
+            margin-bottom: 22px;
+        }
+        h4 {
+            color: $black;
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 30px;
+            margin-bottom: 23px;
+        }
+        p{
+            font-size: 16px;
+            line-height: 28px;
+            color: #808080;
+            margin-bottom: 45px;
+            font-weight: 300;
+        }
+    }
+}

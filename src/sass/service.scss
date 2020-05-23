@@ -1,0 +1,27 @@
+#service{
+    padding: 80px 0 0;
+    @include media-breakpoint-down(md){
+        padding: 40px 0 0;
+    }
+    .service-space{
+        padding-top: 60px;
+    }
+    .single_dream{
+        padding: 0 20px;
+        h3 {
+            color: $black;
+            font-size: 26px;
+            font-weight: 500;
+            margin-top: 44px;
+            margin-bottom: 20px;
+            line-height: 1.2em;
+        }
+        p{
+            margin-bottom: 0;
+            line-height: 28px;
+            font-weight: 400;
+            color: #808080;
+            font-size: 14px;
+        }
+    }
+}
